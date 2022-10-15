@@ -28,6 +28,7 @@ WORK IN PROGRESS
 
 ![z](./imgs/level.png)
 
+# Working on Approximate cell-decomposition
 
-
+![cell](./imgs/cell.png)
 
